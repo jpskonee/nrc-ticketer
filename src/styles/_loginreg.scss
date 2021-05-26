@@ -1,0 +1,84 @@
+body{
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: rgb(148, 168, 206);
+        
+}
+button:hover{
+    color: white;
+    background: rgb(106, 46, 110);
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgb(30, 66, 133);
+    margin-top:  20px;
+    color: white;
+    
+}
+ div img{
+    height: 200px;
+    width: 100%;
+    
+}
+.phone{
+    margin-top: 30px;
+    padding-bottom: 20px;
+    
+
+}
+.firstname{
+    margin-top: 30px;
+    padding-bottom: 20px;
+    
+
+}
+/*p{
+   
+    border-top-style: dotted;
+    margin-left: 530px;
+    width: 60px;
+  
+}*/
+/*p h4{
+    width:  20px;
+    height: 3px;
+    margin-left: 150px;
+    position: absolute;
+    left: 100px;
+    text-align: center;
+    
+
+}  */
+img{
+    height: 30px;
+    width: 5px;
+   
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-radius: 8px;
+    border-color: rgb(22, 25, 192) ;
+    margin: -2px;
+    
+}
+
+
+label{
+    border: 500px;
+    padding-left: 200px;
+    
+}
+
+.phone-number{
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.email{
+    margin-bottom: 20px;
+    //padding-top:30px;
+}
